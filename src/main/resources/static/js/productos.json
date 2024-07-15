@@ -1,0 +1,90 @@
+[
+    {
+        "id": "audifonos_01",
+        "titulo": "audifonos",
+        "precio": 60000.0,
+        "stock": 50,
+        "imagen": "./img/audifonos.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "camara_01",
+        "titulo": "camara",
+        "precio": 2000000.0,
+        "stock": 20,
+        "imagen": "./img/camara.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "cargador_01",
+        "titulo": "cargador",
+        "precio": 20000.0,
+        "stock": 100,
+        "imagen": "./img/cargador.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "celular_01",
+        "titulo": "celular",
+        "precio": 750000.0,
+        "stock": 36,
+        "imagen": "./img/celular.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "computador_01",
+        "titulo": "computador",
+        "precio": 3500000.0,
+        "stock": 25,
+        "imagen": "./img/computador.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "lavadora_01",
+        "titulo": "lavadora",
+        "precio": 2000000.0,
+        "stock": 13,
+        "imagen": "./img/lavadora.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "microondas_01",
+        "titulo": "microondas",
+        "precio": 1200000.0,
+        "stock": 20,
+        "imagen": "./img/microondas.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "nevera_01",
+        "titulo": "nevera",
+        "precio": 2000000.0,
+        "stock": 9,
+        "imagen": "./img/nevera.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "tablet_01",
+        "titulo": "tablet",
+        "precio": 3000000.0,
+        "stock": 32,
+        "imagen": "./img/tablet.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "televisor_01",
+        "titulo": "televisor",
+        "precio": 5000000.0,
+        "stock": 23,
+        "imagen": "./img/televisor.jpeg",
+        "activo": 1
+    },
+    {
+        "id": "ventilador_01",
+        "titulo": "ventilador",
+        "precio": 1000000.0,
+        "stock": 30,
+        "imagen": "./img/ventilador.jpeg",
+        "activo": 1
+    }
+]

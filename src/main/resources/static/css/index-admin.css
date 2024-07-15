@@ -1,0 +1,62 @@
+#products-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;  /* Espacio entre tarjetas */
+    justify-content: space-around;
+}
+
+.card {
+    flex: 1 1 calc(33.333% - 32px); /* Ajuste para 3 tarjetas por fila con espacio entre ellas */
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 16px;
+}
+
+.card h1 {
+    font-size: 1.5em;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.card .price, .card .stock {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.card .buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 16px;
+}
+
+.card .buttons button {
+    flex: 1;
+    margin: 0 4px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.card .buttons .modify {
+    background-color: #007bff;
+    color: white;
+}
+
+.card .buttons .delete {
+    background-color: #dc3545;
+    color: white;
+}
