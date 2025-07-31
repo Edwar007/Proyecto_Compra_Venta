@@ -26,10 +26,10 @@ Sigue los siguientes pasos para ejecutar el proyecto localmente:
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tuusuario/nombre-del-repo.git
+git clone https://github.com/Edwar007/Proyecto_Compra_Venta.git
 
 # 2. Entra al directorio del proyecto
-cd nombre-del-repo
+cd Proyecto_Compra_Venta
 
 # 3. Ejecuta el proyecto con Maven
 ./mvnw spring-boot:run
